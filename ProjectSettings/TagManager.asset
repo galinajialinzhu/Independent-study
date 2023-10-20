@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - green
+  - pink
+  - purple
+  - yellow
+  - final
+  - Baby
+  - Food
   layers:
   - Default
   - TransparentFX
